@@ -5,3 +5,4 @@ canceled build
 [travis:cancel-all]
 [travis cancel-all]
 [travisci:cancel-all]
+[travisci cancel-all]
