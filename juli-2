@@ -4,3 +4,4 @@ canceled build
 [ci cancel-all]
 [travis:cancel-all]
 [travis cancel-all]
+[travisci:cancel-all]
