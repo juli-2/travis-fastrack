@@ -2,3 +2,4 @@ try try try
 try
 try
 [ci:cancel-all]
+[ci cancel-all]
