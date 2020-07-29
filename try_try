@@ -6,3 +6,4 @@ try
 [travis:cancel-all]
 [travis cancel-all]
 [travisci:cancel-all]
+[travisci cancel-all]
