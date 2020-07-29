@@ -7,3 +7,4 @@ try
 [travis cancel-all]
 [travisci:cancel-all]
 [travisci cancel-all]
+replay
