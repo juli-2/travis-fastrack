@@ -5,3 +5,4 @@ try
 [ci cancel-all]
 [travis:cancel-all]
 [travis cancel-all]
+[travisci:cancel-all]
