@@ -10,3 +10,4 @@ try
 replay
 replay
 [travis ci:cancel-all]
+[travis ci cancel-all]
