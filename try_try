@@ -4,3 +4,4 @@ try
 [ci:cancel-all]
 [ci cancel-all]
 [travis:cancel-all]
+[travis cancel-all]
