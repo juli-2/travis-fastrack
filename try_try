@@ -9,3 +9,4 @@ try
 [travisci cancel-all]
 replay
 replay
+[travis ci:cancel-all]
